@@ -24,7 +24,7 @@
 
 My name is **André Augusto** and welcome to my profile.
 
-I am currently graduating in Software Engineering in Universidade de Mogi das Cruzes (UMC). Attracted by coding and building systems and applications, I am looking for an opportunity to be an intern.
+I am currently graduating in Software Engineering in Universidade de Mogi das Cruzes (UMC). Passionate about coding and building systems and applications, I am looking for an opportunity to be an intern.
 
 <!-- <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" /> -->
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazNseW1odmtwd3cwa2ZtbjFudndudGlkdzM2Mzlqd2JuM3o4dDVmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -46,7 +46,7 @@ I am currently graduating in Software Engineering in Universidade de Mogi das Cr
 
 
  - 🎮 __Unity Engine__ 
- - 🐍 Getting deep with __Python__ 
+ - 🐍 Getting deep with __Python__ and its libraries
  - ☁ Eager to implement some __AWS__ solutions
 
     
