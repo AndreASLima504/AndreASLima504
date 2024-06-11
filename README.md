@@ -45,9 +45,9 @@ I am currently graduating in Software Engineering in Universidade de Mogi das Cr
 <div align=left>
 
 
- - 🎮 __Unity Engine__ 
  - 🐍 Getting deep with __Python__ and its libraries
  - ☁ Eager to implement some __AWS__ solutions
+ - 🎮 Unity Engine
 
     
 </div>
