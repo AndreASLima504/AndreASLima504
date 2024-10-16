@@ -44,16 +44,13 @@ I am currently graduating in Software Engineering in Universidade de Mogi das Cr
 
 ---------------------------------------
   
-### 📚 Currently studying:
+### 📊 My GitHub stats:
+<div height=200px align-items: center>
+  
+[![](https://github-readme-stats.vercel.app/api?username=AndreASLima504&layout=compact&count_private=true&show_icons=true&theme=dark&hide_rank=true&count_private=true&line_height=20)](https://github.com/AndreASLima504/github-readme-stats)
+![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreASLima504&show_icons=true&theme=dark&layout=compact)
 
-
-
-
-### GitHub stats
-
-[![](https://github-readme-stats.vercel.app/api?username=AndreASLima504&count_private=true&show_icons=true&theme=dark)](https://github.com/AndreASLima504/github-readme-stats)
-
-![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreASLima504&show_icons=true&theme=dark)
+</div>
 
  
 </div>
