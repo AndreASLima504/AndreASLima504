@@ -33,6 +33,9 @@ I am currently graduating in Software Engineering in Universidade de Mogi das Cr
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
  <br>
+ <br>
+
+ 
 <!-- <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" /> -->
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazNseW1odmtwd3cwa2ZtbjFudndudGlkdzM2Mzlqd2JuM3o4dDVmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
   
